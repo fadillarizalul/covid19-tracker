@@ -1,0 +1,8 @@
+/* HEADER NAVIGATION*/
+app-bar {
+    display: block;
+    padding: 16px;
+    width: 100%;
+    background-color: aquamarine;
+    color: white
+}
